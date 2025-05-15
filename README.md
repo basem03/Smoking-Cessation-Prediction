@@ -23,7 +23,7 @@ This project uses machine learning to predict smoking cessation outcomes based o
 ## Project Structure
 - `exploratory.ipynb`: Data exploration, feature engineering, and normalization.
 - `training.ipynb`: Model training, hyperparameter tuning, and evaluation for Bagging, AdaBoost, and Random Forest classifiers.
-- explanatory.ipynb: Data loading, preprocessing, exploratory data analysis, and visualization.
+-  `explanatory.ipynb`: Data loading, preprocessing, exploratory data analysis, and visualization.
 - `data.csv`: Original dataset (placeholder; user-provided).
 - `my_data.csv`: Processed dataset with selected features.
 - `README.md`: This file.
